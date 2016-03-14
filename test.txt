@@ -1,0 +1,1348 @@
+
+  <p class="TweetTextSize  js-tweet-text tweet-text" lang="en" data-aria-label-part="0">I just entered to win an <strong>Oculus Rift</strong> Dev. Kit from <a href="/lockerdome" class="twitter-atreply pretty-link js-nav" dir="ltr" data-mentioned-user-id="24786727" ><s>@</s><b>LockerDome</b></a>. <a href="https://t.co/DcuPkedJqt" rel="nofollow" dir="ltr" data-expanded-url="http://bit.ly/1PttoaW" class="twitter-timeline-link" target="_blank" title="http://bit.ly/1PttoaW" ><span class="tco-ellipsis"></span><span class="invisible">http://</span><span class="js-display-url">bit.ly/1PttoaW</span><span class="invisible"></span><span class="tco-ellipsis"><span class="invisible">&nbsp;</span></span></a> <a href="https://t.co/3lsO2RdGOw" rel="nofollow" dir="ltr" data-expanded-url="http://lockerdo.me/1cByQ" class="twitter-timeline-link" target="_blank" title="http://lockerdo.me/1cByQ" ><span class="tco-ellipsis"></span><span class="invisible">http://</span><span class="js-display-url">lockerdo.me/1cByQ</span><span class="invisible"></span><span class="tco-ellipsis"><span class="invisible">&nbsp;</span></span></a></p>
+</div>
+
+
+
+
+      
+        
+
+      
+          <div class="card2 js-media-container" data-card2-name="summary_large_image">
+    <div class="js-macaw-cards-iframe-container initial-card-height card-type-summary_large_image"
+  data-src="/i/cards/tfw/v1/708802108036788224?cardname=summary_large_image&amp;earned=true&amp;lang=en"
+  data-autoplay-src="/i/cards/tfw/v1/708802108036788224?cardname=summary_large_image&amp;earned=true&amp;lang=en"
+  data-card-name="summary_large_image"
+  data-card-url="https://t.co/3lsO2RdGOw"
+  data-publisher-id="24786727"
+  data-creator-id=""
+  data-amplify-content-id=""
+  data-amplify-playlist-url=""
+  data-full-card-iframe-url="/i/cards/tfw/v1/708802108036788224?cardname=summary_large_image&amp;earned=true&amp;lang=en"
+  data-has-autoplayable-media="false">
+</div>
+
+</div>
+
+
+  <div class="expanded-content js-tweet-details-dropdown">
+    
+      <div class="js-tweet-details-fixer tweet-details-fixer">
+
+  <div class="js-machine-translated-tweet-container"></div>
+    <div class="js-tweet-stats-container tweet-stats-container ">
+    </div>
+
+  <div class="client-and-actions">
+  <span class="metadata">
+    <span>3:49 PM - 12 Mar 2016</span>
+       &middot; <a class="permalink-link js-permalink js-nav" href="/KMenenello/status/708802108036788224"  tabindex="-1">Details</a>
+  </span>
+</div>
+
+
+</div>
+
+  </div>
+
+
+      
+        
+<div class="stream-item-footer">
+  
+
+  
+        <div class="ProfileTweet-actionCountList u-hiddenVisually">
+    
+    <span class="ProfileTweet-action--reply u-hiddenVisually"></span>
+    <span class="ProfileTweet-action--retweet u-hiddenVisually">
+      
+      <span class="ProfileTweet-actionCount" aria-hidden="true" data-tweet-stat-count="0">
+        <span class="ProfileTweet-actionCountForAria" >0 retweets</span>
+      </span>
+    </span>
+    <span class="ProfileTweet-action--favorite u-hiddenVisually">
+      <span class="ProfileTweet-actionCount" aria-hidden="true" data-tweet-stat-count="0">
+        <span class="ProfileTweet-actionCountForAria" >0 likes</span>
+      </span>
+    </span>
+  </div>
+
+    <div class="ProfileTweet-actionList js-actions" role="group" aria-label="Tweet actions">
+      <div class="ProfileTweet-action ProfileTweet-action--reply">
+  <button class="ProfileTweet-actionButton u-textUserColorHover js-actionButton js-actionReply"
+    data-modal="ProfileTweet-reply"
+    type="button">
+    <div class="IconContainer js-tooltip" title="Reply">
+      <span class="Icon Icon--reply"></span>
+      <span class="u-hiddenVisually">Reply</span>
+    </div>
+  </button>
+</div>
+      <div class="ProfileTweet-action ProfileTweet-action--retweet js-toggleState js-toggleRt">
+  <button class="ProfileTweet-actionButton  js-actionButton js-actionRetweet"
+    
+    data-modal="ProfileTweet-retweet"
+    type="button">
+    <div class="IconContainer js-tooltip" title="Retweet">
+      <span class="Icon Icon--retweet"></span>
+      <span class="u-hiddenVisually">Retweet</span>
+    </div>
+      <div class="IconTextContainer">
+        <span class="ProfileTweet-actionCount ProfileTweet-actionCount--isZero">
+          <span class="ProfileTweet-actionCountForPresentation" aria-hidden="true"></span>
+        </span>
+      </div>
+  </button><button class="ProfileTweet-actionButtonUndo js-actionButton js-actionRetweet" data-modal="ProfileTweet-retweet" type="button">
+    <div class="IconContainer js-tooltip" title="Undo retweet">
+      <span class="Icon Icon--retweet"></span>
+      <span class="u-hiddenVisually">Retweeted</span>
+    </div>
+      <div class="IconTextContainer">
+        <span class="ProfileTweet-actionCount ProfileTweet-actionCount--isZero">
+          <span class="ProfileTweet-actionCountForPresentation" aria-hidden="true"></span>
+        </span>
+      </div>
+  </button>
+</div>
+      <div class="ProfileTweet-action ProfileTweet-action--favorite js-toggleState">
+  <button class="ProfileTweet-actionButton js-actionButton js-actionFavorite" type="button">
+    <div class="IconContainer js-tooltip" title="Like">
+      <div class="HeartAnimationContainer">
+        <div class="HeartAnimation "></div>
+      </div>
+      <span class="u-hiddenVisually">Like</span>
+    </div>
+      <div class="IconTextContainer">
+        <span class="ProfileTweet-actionCount ProfileTweet-actionCount--isZero">
+          <span class="ProfileTweet-actionCountForPresentation" aria-hidden="true"></span>
+        </span>
+      </div>
+  </button><button class="ProfileTweet-actionButtonUndo u-linkClean js-actionButton js-actionFavorite" type="button">
+    <div class="IconContainer js-tooltip" title="Undo like">
+      <div class="HeartAnimationContainer">
+        <div class="HeartAnimation "></div>
+      </div>
+      <span class="u-hiddenVisually">Liked</span>
+    </div>
+      <div class="IconTextContainer">
+        <span class="ProfileTweet-actionCount ProfileTweet-actionCount--isZero">
+          <span class="ProfileTweet-actionCountForPresentation" aria-hidden="true"></span>
+        </span>
+      </div>
+  </button>
+</div>
+      
+
+        <div class="ProfileTweet-action ProfileTweet-action--more js-more-ProfileTweet-actions">
+    <div class="dropdown">
+  <button class="ProfileTweet-actionButton u-textUserColorHover dropdown-toggle js-dropdown-toggle" type="button">
+      <div class="IconContainer js-tooltip" title="More">
+        <span class="Icon Icon--dots"></span>
+        <span class="u-hiddenVisually">More</span>
+      </div>
+  </button>
+  <div class="dropdown-menu">
+  <div class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <ul>
+    
+      <li class="copy-link-to-tweet js-actionCopyLinkToTweet">
+        <button type="button" class="dropdown-link">Copy link to Tweet</button>
+      </li>
+      <li class="embed-link js-actionEmbedTweet" data-nav="embed_tweet">
+        <button type="button" class="dropdown-link">Embed Tweet</button>
+      </li>
+        
+  </ul>
+</div>
+
+</div>
+
+  </div>
+
+    </div>
+
+</div>
+
+
+
+      
+      
+
+    </div>
+  </div>
+
+
+  </li>
+</ol>
+
+</li>
+
+
+
+
+
+
+
+
+        </ol>
+        <div class="stream-footer ">
+  <div class='timeline-end has-items '>
+    <div class="stream-end">
+  <div class="stream-end-inner">
+      <span class="Icon Icon--large Icon--logo"></span>
+
+    <p class="empty-text">
+        
+
+          No results.
+    </p>
+
+          <p><button type='button' class='btn-link back-to-top hidden'>Back to top &uarr;</button></p>
+
+  </div>
+</div>
+
+    <div class="stream-loading">
+  <div class="stream-end-inner">
+    <span class="spinner" title="Loading..."></span>
+  </div>
+</div>
+
+  </div>
+</div>
+<div class="stream-fail-container">
+    <div class="js-stream-whale-end stream-whale-end stream-placeholder centered-placeholder">
+  <div class="stream-end-inner">
+    <h2 class="title">Loading seems to be taking a while.</h2>
+    <p>
+      Twitter may be over capacity or experiencing a momentary hiccup. <a role="button" href="#" class="try-again-after-whale">Try again</a> or visit <a target="_blank" href="http://status.twitter.com">Twitter Status</a> for more information.
+    </p>
+  </div>
+</div>
+</div>
+
+      <ol class="hidden-replies-container"></ol>
+    </div>
+  </div>
+
+    </div>
+  </div>
+
+
+
+
+
+        </div>
+      </div>
+      <!-- Column 2, 3, 4 -->
+    </div>
+  </div>
+</div>
+
+<div id="trends_dialog" class="trends-dialog modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+          <h3 class="modal-title">
+            
+            Choose a trend location
+          </h3>
+      </div>
+
+      <div class="modal-body">
+
+
+        <div class="trends-dialog-error">
+          <p></p>
+        </div>
+
+        <div class="trends-wrapper" id="trends_dialog_content">
+          
+          <div class="loading">
+            <span class="spinner-bigger"></span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+          </div>
+        </div>
+      
+    </div>
+    <div class="alert-messages hidden" id="message-drawer">
+    <div class="message ">
+  <div class="message-inside">
+    <span class="message-text"></span>
+      <a role="button" class="Icon Icon--close Icon--medium dismiss" href="#">
+        <span class="visuallyhidden">Dismiss</span>
+      </a>
+  </div>
+</div>
+</div>
+
+    
+
+
+<div class="gallery-overlay"></div>
+<div class="Gallery">
+  <div class="Gallery-closeTarget"></div>
+  <div class="Gallery-content">
+    <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--large">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+    <div class="Gallery-media"></div>
+    <div class="GalleryNav GalleryNav--prev">
+      <span class="GalleryNav-handle GalleryNav-handle--prev">
+        <span class="Icon Icon--caretLeft Icon--large">
+          <span class="u-hiddenVisually">
+            Previous
+          </span>
+        </span>
+      </span>
+    </div>
+    <div class="GalleryNav GalleryNav--next">
+      <span class="GalleryNav-handle GalleryNav-handle--next">
+        <span class="Icon Icon--caretRight Icon--large">
+          <span class="u-hiddenVisually">
+            Next
+          </span>
+        </span>
+      </span>
+    </div>
+    <div class="GalleryTweet"></div>
+  </div>
+</div>
+
+
+
+<div class="modal-overlay"></div>
+
+<div id="profile-hover-container"></div>
+
+
+
+<div id="goto-user-dialog" class="modal-container">
+  <div class="modal modal-small draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+
+      <div class="modal-header">
+        <h3 class="modal-title">Go to a person's profile</h3>
+      </div>
+
+      <div class="modal-body">
+        <div class="modal-inner">
+          <form class="t1-form goto-user-form">
+            <input class="input-block username-input" type="text" placeholder="Start typing a name to jump to a profile" aria-label="User">
+            
+
+
+<div role="listbox" class="dropdown-menu typeahead">
+  <div aria-hidden="true" class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <div role="presentation" class="dropdown-inner js-typeahead-results">
+    <div role="presentation" class="typeahead-saved-searches">
+  <h3 id="saved-searches-heading" class="typeahead-category-title saved-searches-title">Saved searches</h3>
+  <ul role="presentation" class="typeahead-items saved-searches-list">
+    
+    <li role="presentation" class="typeahead-item typeahead-saved-search-item">
+      <span class="Icon Icon--close" aria-hidden="true"><span class="visuallyhidden">Remove</span></span>
+      <a role="option" aria-describedby="saved-searches-heading" class="js-nav" href="" data-search-query="" data-query-source="" data-ds="saved_search" tabindex="-1"></a>
+    </li>
+  </ul>
+</div>
+
+    <ul role="presentation" class="typeahead-items typeahead-topics">
+  
+  <li role="presentation" class="typeahead-item typeahead-topic-item">
+    <a role="option" class="js-nav" href="" data-search-query="" data-query-source="typeahead_click" data-ds="topics" tabindex="-1"></a>
+  </li>
+</ul>
+    
+
+
+<ul role="presentation" class="typeahead-items typeahead-accounts js-typeahead-accounts">
+  
+  <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-account-item js-selectable">
+    
+    <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
+      <img class="avatar size32" alt="">
+      <span class="typeahead-user-item-info">
+        <span class="fullname"></span>
+        <span class="js-verified hidden"><span class="Icon Icon--verified Icon--small">
+  <span class="u-hiddenVisually">Verified account</span>
+</span></span>
+        <span class="username"><s>@</s><b></b></span>
+      </span>
+    </a>
+  </li>
+  <li role="presentation" class="js-selectable typeahead-accounts-shortcut js-shortcut"><a role="option" class="js-nav" href="" data-search-query="" data-query-source="typeahead_click" data-shortcut="true" data-ds="account_search"></a></li>
+</ul>
+
+    <ul role="presentation" class="typeahead-items typeahead-trend-locations-list">
+  
+  <li role="presentation" class="typeahead-item typeahead-trend-locations-item"><a role="option" class="js-nav" href="" data-ds="trend_location" data-search-query="" tabindex="-1"></a></li>
+</ul>
+    <div role="presentation" class="typeahead-user-select">
+  <div role="presentation" class="typeahead-empty-suggestions">
+    Suggested users
+  </div>
+  <ul role="presentation" class="typeahead-items typeahead-selected js-typeahead-selected">
+    
+    <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-selected-item js-selectable">
+      
+      <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
+        <img class="avatar size32" alt="">
+        <span class="typeahead-user-item-info">
+          <span class="select-status deselect-user js-deselect-user Icon Icon--check"></span>
+          <span class="select-status select-disabled Icon Icon--unfollow"></span>
+          <span class="fullname"></span>
+          <span class="js-verified hidden"><span class="Icon Icon--verified Icon--small">
+  <span class="u-hiddenVisually">Verified account</span>
+</span></span>
+          <span class="username"><s>@</s><b></b></span>
+        </span>
+      </a>
+    </li>
+    <li role="presentation" class="typeahead-selected-end"></li>
+  </ul>
+
+  <ul role="presentation" class="typeahead-items typeahead-accounts js-typeahead-accounts">
+    
+    <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-account-item js-selectable">
+      
+      <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
+        <img class="avatar size32" alt="">
+        <span class="typeahead-user-item-info">
+          <span class="select-status deselect-user js-deselect-user Icon Icon--check"></span>
+          <span class="select-status select-disabled Icon Icon--unfollow"></span>
+          <span class="fullname"></span>
+          <span class="js-verified hidden"><span class="Icon Icon--verified Icon--small">
+  <span class="u-hiddenVisually">Verified account</span>
+</span></span>
+          <span class="username"><s>@</s><b></b></span>
+        </span>
+      </a>
+    </li>
+    <li role="presentation" class="typeahead-accounts-end"></li>
+  </ul>
+</div>
+
+    <div role="presentation" class="typeahead-dm-conversations">
+  <ul role="presentation" class="typeahead-items typeahead-dm-conversation-items">
+    <li role="presentation" class="typeahead-item typeahead-dm-conversation-item">
+      <a role="option" tabindex="-1"></a>
+    </li>
+  </ul>
+</div>
+  </div>
+</div>
+
+          </form>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+  <div id="retweet-tweet-dialog" class="RetweetDialog modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="RetweetDialog-modal modal draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+
+      <div class="modal-header">
+        <h3 class="modal-title">Retweet this to your followers?</h3>
+      </div>
+
+      <form class="t1-form tweet-form condensed RetweetDialog-tweetForm isWithoutComment" data-condensed-text="Add a comment...">
+        <div class="RetweetDialog-commentBox">
+          <span class="visuallyhidden" id="-label">Optional comment for Retweet</span>
+          <div class="tweet-content">
+            <div class="RichEditor">
+  
+  <div class="RichEditor-mozillaCursorWorkaround">&nbsp;</div>
+  <div class="RichEditor-scrollContainer">
+
+
+
+            <div aria-labelledby="-label" id="" class="tweet-box rich-editor"
+              contenteditable="true" spellcheck="true" role="textbox" aria-multiline="true"></div>
+            
+    <div class="RichEditor-pictographs" aria-hidden="true"></div>
+  </div>
+  <div class="RichEditor-mozillaCursorWorkaround">&nbsp;</div>
+</div>
+
+          </div>
+          
+
+
+<div role="listbox" class="dropdown-menu typeahead">
+  <div aria-hidden="true" class="dropdown-caret">
+    <div class="caret-outer"></div>
+    <div class="caret-inner"></div>
+  </div>
+  <div role="presentation" class="dropdown-inner js-typeahead-results">
+    <div role="presentation" class="typeahead-saved-searches">
+  <h3 id="saved-searches-heading" class="typeahead-category-title saved-searches-title">Saved searches</h3>
+  <ul role="presentation" class="typeahead-items saved-searches-list">
+    
+    <li role="presentation" class="typeahead-item typeahead-saved-search-item">
+      <span class="Icon Icon--close" aria-hidden="true"><span class="visuallyhidden">Remove</span></span>
+      <a role="option" aria-describedby="saved-searches-heading" class="js-nav" href="" data-search-query="" data-query-source="" data-ds="saved_search" tabindex="-1"></a>
+    </li>
+  </ul>
+</div>
+
+    <ul role="presentation" class="typeahead-items typeahead-topics">
+  
+  <li role="presentation" class="typeahead-item typeahead-topic-item">
+    <a role="option" class="js-nav" href="" data-search-query="" data-query-source="typeahead_click" data-ds="topics" tabindex="-1"></a>
+  </li>
+</ul>
+    
+
+
+<ul role="presentation" class="typeahead-items typeahead-accounts js-typeahead-accounts">
+  
+  <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-account-item js-selectable">
+    
+    <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
+      <img class="avatar size32" alt="">
+      <span class="typeahead-user-item-info">
+        <span class="fullname"></span>
+        <span class="js-verified hidden"><span class="Icon Icon--verified Icon--small">
+  <span class="u-hiddenVisually">Verified account</span>
+</span></span>
+        <span class="username"><s>@</s><b></b></span>
+      </span>
+    </a>
+  </li>
+  <li role="presentation" class="js-selectable typeahead-accounts-shortcut js-shortcut"><a role="option" class="js-nav" href="" data-search-query="" data-query-source="typeahead_click" data-shortcut="true" data-ds="account_search"></a></li>
+</ul>
+
+    <ul role="presentation" class="typeahead-items typeahead-trend-locations-list">
+  
+  <li role="presentation" class="typeahead-item typeahead-trend-locations-item"><a role="option" class="js-nav" href="" data-ds="trend_location" data-search-query="" tabindex="-1"></a></li>
+</ul>
+    <div role="presentation" class="typeahead-user-select">
+  <div role="presentation" class="typeahead-empty-suggestions">
+    Suggested users
+  </div>
+  <ul role="presentation" class="typeahead-items typeahead-selected js-typeahead-selected">
+    
+    <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-selected-item js-selectable">
+      
+      <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
+        <img class="avatar size32" alt="">
+        <span class="typeahead-user-item-info">
+          <span class="select-status deselect-user js-deselect-user Icon Icon--check"></span>
+          <span class="select-status select-disabled Icon Icon--unfollow"></span>
+          <span class="fullname"></span>
+          <span class="js-verified hidden"><span class="Icon Icon--verified Icon--small">
+  <span class="u-hiddenVisually">Verified account</span>
+</span></span>
+          <span class="username"><s>@</s><b></b></span>
+        </span>
+      </a>
+    </li>
+    <li role="presentation" class="typeahead-selected-end"></li>
+  </ul>
+
+  <ul role="presentation" class="typeahead-items typeahead-accounts js-typeahead-accounts">
+    
+    <li role="presentation" data-user-id="" data-user-screenname="" data-remote="true" data-score="" class="typeahead-item typeahead-account-item js-selectable">
+      
+      <a role="option" class="js-nav" data-query-source="typeahead_click" data-search-query="" data-ds="account">
+        <img class="avatar size32" alt="">
+        <span class="typeahead-user-item-info">
+          <span class="select-status deselect-user js-deselect-user Icon Icon--check"></span>
+          <span class="select-status select-disabled Icon Icon--unfollow"></span>
+          <span class="fullname"></span>
+          <span class="js-verified hidden"><span class="Icon Icon--verified Icon--small">
+  <span class="u-hiddenVisually">Verified account</span>
+</span></span>
+          <span class="username"><s>@</s><b></b></span>
+        </span>
+      </a>
+    </li>
+    <li role="presentation" class="typeahead-accounts-end"></li>
+  </ul>
+</div>
+
+    <div role="presentation" class="typeahead-dm-conversations">
+  <ul role="presentation" class="typeahead-items typeahead-dm-conversation-items">
+    <li role="presentation" class="typeahead-item typeahead-dm-conversation-item">
+      <a role="option" tabindex="-1"></a>
+    </li>
+  </ul>
+</div>
+  </div>
+</div>
+
+        </div>
+
+        <div class="RetweetDialog-footer u-cf">
+          <div class="tweet-loading">
+  <div class="spinner-bigger"></div>
+</div>
+
+          <div class="RetweetDialog-tweet modal-body modal-tweet tweet"></div>
+          <div class="tweet-button">
+            <span class="spinner"></span>
+            <span class="RetweetDialog-counter tweet-counter">140</span>
+            <button class="btn primary-btn retweet-action" type="button">
+              <span class="RetweetDialog-retweetActionLabel">
+                <span class="Icon Icon--retweet"></span>
+                Retweet
+              </span>
+              <span class="RetweetDialog-tweetActionLabel">
+                <span class="Icon Icon--tweet"></span>
+                Tweet
+              </span>
+            </button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+  <div id="delete-tweet-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+
+      <div class="modal-header">
+        <h3 class="modal-title">Are you sure you want to delete this Tweet?</h3>
+      </div>
+
+      <div class="tweet-loading">
+  <div class="spinner-bigger"></div>
+</div>
+
+      <div class="modal-body modal-tweet"></div>
+
+      <div class="modal-footer">
+        <button class="btn cancel-action js-close">Cancel</button>
+        <button class="btn primary-btn delete-action">Delete</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div id="quick-promote-dialog" class="QuickPromoteDialog modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--large">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Promote this Tweet</h3>
+      </div>
+      <div class="modal-body">
+        <div class="quick-promote-view-container">
+          <div class="media">
+            <iframe
+              class="quick-promote-iframe js-initial-focus"
+              scrolling="no"
+              frameborder="0"
+              src="">
+            </iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div id="block-user-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+
+      <div class="modal-header">
+        <h3 class="modal-title">Block</h3>
+      </div>
+
+      <div class="tweet-loading">
+  <div class="spinner-bigger"></div>
+</div>
+
+      <div class="modal-body modal-tweet"></div>
+
+      <div class="modal-footer">
+        <button class="btn cancel-action js-close">Cancel</button>
+        <button class="btn primary-btn block-action">Block</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+  
+  
+
+     <div id="geo-disabled-dropdown">
+      <div tabindex="-1">
+  <div class="dropdown-caret">
+    <span class="caret-outer"></span>
+    <span class="caret-inner"></span>
+  </div>
+  <ul>
+    <li class="geo-not-enabled-yet">
+      <h2>Add a location to your Tweets</h2>
+      <p>
+        When you tweet with a location, Twitter stores that location.&#32;
+        You can switch location on/off before each Tweet and always have the option to delete your location history.
+        <a href="http://support.twitter.com/forums/26810/entries/78525" target="_blank">Learn more</a>
+      </p>
+      <div>
+        <button type="button" class="geo-turn-on btn primary-btn">Turn location on</button>
+        <button type="button" class="geo-not-now btn-link">Not now</button>
+      </div>
+    </li>
+  </ul>
+</div>
+
+    </div>
+
+  <div id="geo-enabled-dropdown">
+    <div tabindex="-1">
+  <div class="dropdown-caret">
+    <span class="caret-outer"></span>
+    <span class="caret-inner"></span>
+  </div>
+  <div>
+    <div class="geo-query-location">
+      <input class="GeoSearch-queryInput" type="text" autocomplete="off" placeholder="Search for a neighborhood or city">
+      <span class="icon generic-search"></span>
+    </div>
+    <div class="geo-dropdown-status"></div>
+    <ul class="GeoSearch-dropdownMenu"></ul>
+  </div>
+</div>
+
+  </div>
+
+
+  <div id="profile_popup" class="modal-container ProfilePopupContainer--bellbird">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-small draggable">
+    <div class="modal-content clearfix">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Profile summary</h3>
+      </div>
+
+      <div class="modal-body profile-modal">
+
+      </div>
+
+      <div class="loading">
+        <span class="spinner-bigger"></span>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div id="list-membership-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-small draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Your lists</h3>
+      </div>
+      <div class="modal-body">
+        <div class="list-membership-content"></div>
+        <span class="spinner lists-spinner" title="Loading&hellip;"></span>
+      </div>
+    </div>
+  </div>
+</div>
+  <div id="list-operations-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-medium draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Create a new list</h3>
+      </div>
+      <div class="modal-body">
+        
+<div class="list-editor">
+  <div class="field">
+    <label class="t1-label" for="list-name">List name</label>
+    <input id="list-name" type="text" class="text" name="name" value="" />
+  </div>
+  <hr/>
+
+  <div class="field">
+    <label class="t1-label" for="list-description">Description</label>
+    <textarea id="list-description" name="description"></textarea>
+    <span class="help-text">Under 100 characters, optional</span>
+  </div>
+  <hr/>
+
+  <fieldset class="field">
+    <legend class="t1-legend">Privacy</legend>
+    <div class="options">
+      <label class="t1-label" for="list-public-radio">
+        <input class="radio" type="radio" name="mode" id="list-public-radio" value="public" checked="checked"  />
+        <b>Public</b> &middot; Anyone can follow this list
+      </label>
+      <label class="t1-label" for="list-private-radio">
+        <input class="radio" type="radio" name="mode" id="list-private-radio" value="private"  />
+        <b>Private</b> &middot; Only you can access this list
+      </label>
+    </div>
+  </fieldset>
+  <hr/>
+
+  <div class="list-editor-save">
+    <button type="button" class="btn btn-primary update-list-button" data-list-id="">Save list</button>
+  </div>
+
+</div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="activity-popup-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal draggable">
+    <div class="modal-content clearfix">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+
+      <div class="modal-header">
+        <h3 class="modal-title"></h3>
+      </div>
+
+      <div class="modal-body">
+        <div class="tweet-loading">
+  <div class="spinner-bigger"></div>
+</div>
+
+        <div class="activity-tweet modal-tweet clearfix"></div>
+        <div class="loading">
+          <span class="spinner-bigger"></span>
+        </div>
+        <div class="activity-content clearfix"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+  <div id="copy-link-to-tweet-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-medium draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Copy link to Tweet</h3>
+      </div>
+      <div class="modal-body">
+        <div class="copy-link-to-tweet-container">
+          <p class="copy-link-to-tweet-instructions">The URL of this tweet is below. Copy it to easily share with friends.</p>
+          <textarea class="link-to-tweet-destination js-initial-focus u-dir" dir="ltr" readonly></textarea>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div id="embed-tweet-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-medium draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title embed-tweet-title">Embed this Tweet</h3>
+        <h3 class="modal-title embed-video-title">Embed this Video</h3>
+      </div>
+      <div class="modal-body">
+        <div class="embed-code-container">
+  <p class="embed-tweet-instructions">Add this Tweet to your website by copying the code below. <a href="//dev.twitter.com/docs/embedded-tweets">Learn more</a></p>
+  <p class="embed-video-instructions">Add this video to your website by copying the code below. <a href="//dev.twitter.com/docs/embedded-tweets">Learn more</a></p>
+  <form class="t1-form">
+
+    <div class="embed-destination-wrapper">
+      <div class="embed-overlay embed-overlay-spinner"><div class="embed-overlay-content"></div></div>
+      <div class="embed-overlay embed-overlay-error">
+        <p class="embed-overlay-content">Hmm, there was a problem reaching the server. <button type="button" class="btn-link retry-embed">Try again?</button></p>
+      </div>
+      <textarea class="embed-destination js-initial-focus"></textarea>
+      <div class="embed-options">
+        <div class="embed-include-parent-tweet">
+          <label class="t1-label" for="include-parent-tweet">
+            <input type="checkbox" id="include-parent-tweet" class="include-parent-tweet" checked>
+            Include parent Tweet
+          </label>
+        </div>
+        <div class="embed-include-card">
+          <label class="t1-label" for="include-card">
+            <input type="checkbox" id="include-card" class="include-card" checked>
+            Include media
+          </label>
+        </div>
+      </div>
+    </div>
+  </form>
+  <div class="embed-preview">
+    <h3>Preview</h3>
+  </div>
+</div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+  <div id="login-dialog" class="LoginDialog modal-container u-textCenter">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-large draggable">
+    <div class="LoginDialog-content modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Log in to Twitter</h3>
+      </div>
+      <div class="LoginDialog-body modal-body">
+        <div class="LoginDialog-bird">
+          <span class="Icon Icon--bird Icon--large"></span>
+        </div>
+        <div class="LoginDialog-form">
+<form action="https://twitter.com/sessions" class="LoginForm js-front-signin" method="post"
+  data-component="dialog"
+  data-element="login"
+>
+  <div class="LoginForm-input LoginForm-username">
+    <input
+      type="text"
+      class="text-input email-input js-signin-email"
+      name="session[username_or_email]"
+      autocomplete="username"
+      placeholder="Phone, email or username"
+    />
+  </div>
+
+  <div class="LoginForm-input LoginForm-password">
+    <input type="password" class="text-input" name="session[password]" placeholder="Password" autocomplete="current-password">
+  </div>
+
+  <div class="LoginForm-rememberForgot">
+    <label>
+      <input type="checkbox" value="1" name="remember_me" checked="checked">
+      <span>Remember me</span>
+    </label>
+    <span class="separator">&middot;</span>
+    <a class="forgot" href="/account/begin_password_reset">Forgot password?</a>
+  </div>
+
+  <input type="submit" class="submit btn primary-btn js-submit" value="Log in">
+
+    <input type="hidden" name="return_to_ssl" value="true">
+
+  <input type="hidden" name="scribe_log">
+  <input type="hidden" name="redirect_after_login" value="/search?f=tweets&amp;vertical=default&amp;q=Oculus+Rift">
+  <input type="hidden" value="b86b138e800f58755e971b7974cf8fc6958370a2" name="authenticity_token">
+      <input type="hidden" value="" name="ui_metrics" autocomplete="off">
+      <input type="hidden" id="ui_metrics_seed" name="ui_metrics_seed" value="1457827135338" autocomplete="off">
+      <input type="hidden" value="1" name="js_inst" autocomplete="off">
+      <script src="/i/js_inst" async></script>
+</form>
+        </div>
+      </div>
+      <div class="LoginDialog-footer modal-footer u-textCenter">
+        Don't have an account? <a class="LoginDialog-signupLink" href="https://twitter.com/signup">Sign up &raquo;</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div id="signup-dialog" class="SignupDialog modal-container u-textCenter">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-large draggable">
+    <div class="SignupDialog-content modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Sign up for Twitter</h3>
+      </div>
+      <div class="SignupDialog-body modal-body">
+        <div class="SignupDialog-icon">
+          <span class="Icon Icon--bird Icon--extraLarge"></span>
+        </div>
+        <h2 class="SignupDialog-heading">Not on Twitter? Sign up, tune into the things you care about, and get updates as they happen.</h2>
+        <div class="SignupDialog-form">
+  <div class="signup SignupForm
+    ">
+    <a href="https://twitter.com/signup" role="button" class="SignupForm-submit u-block u-textCenter js-signup btn primary-btn"
+    data-component="dialog"
+    data-element="signup"
+    >Sign up</a>
+  </div>
+        </div>
+      </div>
+      <div class="SignupDialog-footer modal-footer u-textCenter">
+        Have an account? <a class="SignupDialog-signinLink" href="/login">Log in &raquo;</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div id="sms-codes-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal modal-medium draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Two-way (sending and receiving) short codes:</h3>
+      </div>
+      <div class="modal-body">
+        
+<table id="sms_codes" cellpadding="0" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Country</th>
+      <th>Code</th>
+      <th>For customers of</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>United States</td>
+      <td>40404</td>
+      <td>(any)</td>
+    </tr>
+    <tr>
+      <td>Canada</td>
+      <td>21212</td>
+      <td>(any)</td>
+    </tr>
+    <tr>
+      <td>United Kingdom</td>
+      <td>86444</td>
+      <td>Vodafone, Orange, 3, O2</td>
+    </tr>
+    <tr>
+      <td>Brazil</td>
+      <td>40404</td>
+      <td>Nextel, TIM</td>
+    </tr>
+    <tr>
+      <td>Haiti</td>
+      <td>40404</td>
+      <td>Digicel, Voila</td>
+    </tr>
+    <tr>
+      <td>Ireland</td>
+      <td>51210</td>
+      <td>Vodafone, O2</td>
+    </tr>
+    <tr>
+      <td>India</td>
+      <td>53000</td>
+      <td>Bharti Airtel, Videocon, Reliance</td>
+    </tr>
+    <tr>
+      <td>Indonesia</td>
+      <td>89887</td>
+      <td>AXIS, 3, Telkomsel, Indosat, XL Axiata</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Italy</td>
+      <td>4880804</td>
+      <td>Wind</td>
+    </tr>
+    <tr>
+      <td>3424486444</td>
+      <td>Vodafone</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="3">
+        &raquo; <a class="js-initial-focus" target="_blank" href="http://support.twitter.com/articles/14226-how-to-find-your-twitter-short-code-or-long-code">See SMS short codes for other countries</a>
+      </td>
+    </tr>
+  </tfoot>
+</table>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="leadgen-confirm-dialog" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--medium">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Confirmation</h3>
+      </div>
+      <div class="modal-body">
+        <div class="leadgen-card-container">
+          <div class="media">
+            <iframe
+              class="cards2-promotion-iframe"
+              scrolling="no"
+              frameborder="0"
+              src="">
+            </iframe>
+          </div>
+        </div>
+        <div class="js-macaw-cards-iframe-container" data-card-name="promotion">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div id="auth-webview-dialog" class="AuthWebViewDialog modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--large">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">&nbsp;</h3>
+      </div>
+      <div class="modal-body">
+        <div class="auth-webview-view-container">
+          <div class="media">
+            <iframe
+              class="auth-webview-card-iframe js-initial-focus"
+              scrolling="no"
+              frameborder="0"
+              width="590px"
+              height="500px"
+              src="">
+            </iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div id="promptbird-modal-prompt" class="modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal">
+    
+    <button type="button" class="modal-btn js-promptDismiss modal-close js-close">
+      <span class="Icon Icon--close Icon--medium">
+        <span class="visuallyhidden">Close</span>
+      </span>
+    </button>
+    <div class="modal-content"></div>
+  </div>
+</div>
+
+  <div id="buy-now-dialog" class="BuyNowDialog modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--large">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Buy Now</h3>
+      </div>
+      <div class="modal-body">
+        <div class="buy-now-view-container">
+          <div class="media">
+            <iframe
+              class="buy-now-card-iframe js-initial-focus"
+              scrolling="no"
+              frameborder="0"
+              width="590px"
+              height="400px"
+              src="">
+            </iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+   <div id="payment-order-detail-dialog" class="PaymentOrderDialog modal-container">
+  <div class="close-modal-background-target"></div>
+  <div class="modal draggable">
+    <div class="modal-content">
+      <button type="button" class="modal-btn modal-close js-close">
+  <span class="Icon Icon--close Icon--large">
+    <span class="visuallyhidden">Close</span>
+  </span>
+</button>
+
+      <div class="modal-header">
+        <h3 class="modal-title">Buy Now</h3>
+      </div>
+      <div class="modal-body">
+        <div class="alert">
+          <h4>Hmm... Something went wrong. Please try again.</h4>
+        </div>
+        <div class="spinner-bigger"></div>
+        <div class="PaymentOrderDialog-orderDetails"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+<div id="create-custom-timeline-dialog" class="modal-container"></div>
+<div id="edit-custom-timeline-dialog" class="modal-container"></div>
+<div id="curate-dialog" class="modal-container"></div>
+<div id="media-edit-dialog" class="modal-container"></div>
+
+
+      <div class="PermalinkOverlay PermalinkOverlay-with-background " id="permalink-overlay">
+  <button class="PermalinkOverlay-next PermalinkOverlay-button u-posFixed js-next" type="button">
+    <span class="Icon Icon--caretLeft Icon--large"></span>
+    <span class="u-hiddenVisually">Next Tweet from user</span>
+  </button>
+  <div class="PermalinkOverlay-modal">
+    <div class="PermalinkOverlay-spinnerContainer u-hidden">
+      <div class="PermalinkOverlay-spinner"></div>
+    </div>
+    <div class="PermalinkOverlay-content">
+      <div class="PermalinkOverlay-body"
+>
+      </div>
+    </div>
+  </div>
+</div>
+
+    <div class="hidden" id="hidden-content">
+  <iframe aria-hidden="true" class="tweet-post-iframe" name="tweet-post-iframe"></iframe>
+  <iframe aria-hidden="true" class="dm-post-iframe" name="dm-post-iframe"></iframe>
+
+</div>
+
+    
+    <div id="spoonbill-outer"></div>
+  </body>
+</html>
